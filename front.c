@@ -15,7 +15,7 @@ int token;
 int nextToken;
 FILE *in_fp, *fopen();
 
-/* lexeme analyzer function declarations */
+/* function declarations */
 void addChar();
 void getChar();
 void getNonBlank();
